@@ -1,0 +1,24 @@
+#content
+{
+    position: relative;
+    top: 7em;
+    left: 1em;
+}
+
+#row
+{
+    position: relative;
+    top: 2em;
+}
+
+#row img
+{
+    padding-left: 1em;
+    padding-bottom: 1em;
+}
+
+#skills
+{
+    position: relative;
+    top: 2em;
+}

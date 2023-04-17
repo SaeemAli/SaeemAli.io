@@ -1,0 +1,30 @@
+.main
+{
+    position: absolute;
+    top: 5em;
+    left: 3em;
+}
+
+.linkedin
+{
+    position: absolute;
+    left: 2em;
+}
+
+.instagram
+{
+    position: absolute;
+    left: 7em;
+}
+
+.github
+{
+    position: absolute;
+    left: 12em;
+}
+
+form
+{
+    position: absolute;
+    top: 10em;
+}
